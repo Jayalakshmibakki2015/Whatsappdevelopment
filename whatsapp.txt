@@ -5,3 +5,4 @@ Author :jayalakshmi
 2.chat screen code
 3.last seen code
 4.attachments
+5.hiding the last seen
