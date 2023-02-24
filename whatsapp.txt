@@ -6,3 +6,5 @@ Author :jayalakshmi
 3.last seen code
 4.attachments
 5.hiding the last seen
+6.create video call
+7.create audio call
